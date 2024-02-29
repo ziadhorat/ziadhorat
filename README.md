@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on improving security and backups for personal infrastructure
 - 🌱 I’m currently expanding my knowledge of networking concepts such as VLANs
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ziadhorat&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **ziadhorat/ziadhorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
