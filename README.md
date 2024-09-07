@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on improving security and backups for personal infrastructure
 - 🌱 I’m currently expanding my knowledge of networking concepts such as VLANs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhorat&layout=compact&text_color=fe9cd8&title_color=fe9cd8&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
-</p>
+# GitHub Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zimahomed&show_icons=true&theme=dark&locale=en&hide_border=true" alt="zimahomed" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimahomed&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&hide_border=true" /> |
+| --- | --- |
